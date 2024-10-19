@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "mghogale.github.io"
 title_separator          : "-"
 name                     : &name "Mayank M Ghogale"
-description              : &description "Bioinformatician - Arlotta Lab"
+description              : &description "Bioinformatician at Arlotta Lab, SCRB, Harvard University"
 url                      : https://mghogale.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mghogale.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Mayank M Ghogale"
   avatar           : "profile.jpg"
-  bio              : "Bioinformatician - Arlotta Lab, Harvard Department of Stem Cell and Regenerative Biology"
+  bio              : "Bioinformatician at Arlotta Lab, Department of Stem Cell and Regenerative Biology, Harvard University"
   location         : "Cambridge, USA"
   employer         :
-  pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=ySf7r78AAAAJ&hl=en&authuser=1"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=ySf7r78AAAAJ&hl"
   email            :
   researchgate     : 
   uri              :
@@ -100,17 +100,17 @@ author:
   google_plus      :
   keybase          :
   instagram        : 
-  impactstory      :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "mayank-ghogale-73b093192"
   loop             : 
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5913-2700"
+  orcid            : "https://orcid.org/0000-0001-5913-2700"
   pinterest        :
-  harvard          : "https://hscrb.harvard.edu/people/mayank-ghogale/"
+  sanger           : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
