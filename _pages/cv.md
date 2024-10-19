@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-![CV](https://github.com/Mayank0512/Mayank0512.github.io/raw/master/images/cv_github_1.png)
-![CV](https://github.com/Mayank0512/Mayank0512.github.io/raw/master/images/cv_github_2.png)
+![CV](https://raw.githubusercontent.com/Mayank0512/Mayank0512.github.io/master/images/cv_github_1.png)
+![CV](https://raw.githubusercontent.com/Mayank0512/Mayank0512.github.io/master/images/cv_github_2.png)
 
