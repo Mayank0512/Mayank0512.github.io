@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Bioinformatician in the laboratory of Dr. Paola Arlotta at the Department of Stem Cell and Regenerative Biology at Harvard and an Associate at the Broad Institute of MIT and Harvard .
+I am a Bioinformatician in the laboratory of Prof. Paola Arlotta in the Department of Stem Cell and Regenerative Biology at Harvard, and an Associate at the Broad Institute of MIT and Harvard.
 
-I completed my Masters in Bioinformatics at the Boston University. During my masters, I worked with Prof. Cynthia Bradham, and Dr. Dakota Hawkins, and largely focussed on Elucidating the temporal, spatial, and mechanistic underpinnings of PMC diversiﬁcation. The project was an extension of the work done by Dr. Dakota Hawkins for his PhD thesis under Prof. Bradham and I used the pipelines developed by him.
+I came to my question through the sea urchin. For my MS in Bioinformatics at Boston University I worked with Prof. Cynthia Bradham and Dr. Dakota Hawkins on how primary mesenchyme cells diversify, reading patterning cues from the ectoderm according to where they sit in the embryo.
 
-I am deeply interested in analyzing data from multi-omic single-cell spatially resolved technologies. I am particularly intrigued by the questions, “How does the brain learn?” and “How does an embryo develop into an adult?” I aspire to apply these innovative technologies to uncover insights that could help answer these fundamental questions about biological processes. Ultimately, this research could lead to a better understanding of the mechanisms underlying complex diseases such as Alzheimer’s disease (AD) and autism spectrum disorder (ASD), paving the way for the development of effective treatments.
+That left me with a question I have been following since: how does a cell come to have the identity it has? Every cell carries the same genome, yet cells become different from one another and take on distinct functions. I want to know which gene programs define a cell type, what happens at the point in a lineage where one fate is taken and another is not, and whether a cell’s position decides what it becomes or only reflects it.
+
+In the Arlotta lab I ask these questions in the developing brain, where distinct regions arise from a shared pool of progenitors, using single-cell and spatial transcriptomics. What interests me most is the step beyond description: moving from programs that correlate with a fate to candidates whose effect can be predicted and tested.
